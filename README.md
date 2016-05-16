@@ -33,4 +33,3 @@ npm test
 npm run deploy
 ```
 
-# counterGreeter
