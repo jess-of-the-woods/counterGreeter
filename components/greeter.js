@@ -8,7 +8,8 @@ class Greeter extends Component {
   render(){
     return (
       <div>
-        <h1>Youve discovered {this.props.name}!</h1>
+        <h1>Welcome!</h1>
+        <h1>You have discovered {this.props.name}!</h1>
         <h2>Impressive to say the least!</h2>
       </div>
     )
