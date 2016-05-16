@@ -9,7 +9,7 @@ Pretty incredible
 
 ```
 git clone https://github.com/jess-of-the-woods/counterGreeter
-cd 
+cd
 npm install
 ```
 
@@ -32,3 +32,5 @@ npm test
 ```
 npm run deploy
 ```
+
+# counterGreeter
